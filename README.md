@@ -49,7 +49,7 @@
 <a href="event flyers/electronic chess.jpg"><img src="event flyers/electronic chess.jpg?v=3&s=200" title="electronic chess" alt="electronic chess"></a>
 <a href="event flyers/quarintine challenge.jpg"><img src="event flyers/quarintine challenge.jpg?v=3&s=200" title="quarintine challenge" alt="quarintine challenge"></a>
 ## Posters
-<a href="posters/National Technology day.jpg"><img src="posters/National Technology day.jpg?v=3&s=200" title="National Technology day" alt="National Technology day"></a>
+<!-- <a href="posters/National Technology day.jpg"><img src="posters/National Technology day.jpg?v=3&s=200" title="National Technology day" alt="National Technology day"></a> -->
 <a href="posters/america vs china trade war.jpg"><img src="posters/america vs china trade war.jpg?v=3&s=200" title="america vs china trade war" alt="america vs china trade war"></a>
 <a href="posters/environment day.jpg"><img src="posters/environment day.jpg?v=3&s=200" title="environment day" alt="environment day"></a>
 <a href="posters/fathers day.jpg"><img src="posters/fathers day.jpg?v=3&s=200" title="fathers day" alt="fathers day"></a>
