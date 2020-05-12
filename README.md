@@ -1,4 +1,4 @@
-<a href="http://coderaky.com"><img src="https://raw.githubusercontent.com/coder-aky/files/master/png/hello.png?v=3&s=200" title="Consilio" alt="Consilio"></a>
+<a href="http://coderaky.com"><img src="https://raw.githubusercontent.com/coderaky/files/master/png/hello.png?v=3&s=200" title="Consilio" alt="Consilio"></a>
 # 🎨 Consilio
 
 > Design stuffs (App UI, Mockups, T-shirt, Trifold, CSS Cheatsheet, Event Flyers, Icons, Posters, Templates, Text, Visting Card etc) using Photoshop, illustrator, Figma, Sketch and blender.
@@ -20,7 +20,10 @@
 ---
 
 ## Mockups
-<a href="mockup/E-commerce Dashboard.jpg"><img src="mockup/E-commerce Dashboard.jpg?v=3&s=200" title="Consilio" alt="Consilio"></a>
+<a href="mockup/E-commerce Dashboard.jpg"><img src="mockup/E-commerce Dashboard.jpg?v=3&s=200" title="E-commerce Dashboard" alt="E-commerce Dashboard"></a>
+<a href="mockup/Globetrotter single.jpg"><img src="mockup/Globetrotter single.jpg?v=3&s=200" title="Globetrotter single" alt="Globetrotter single"></a>
+<a href="mockup/globetrotter black.jpg"><img src="mockup/globetrotter black.jpg?v=3&s=200" title="globetrotter black" alt="globetrotter black"></a>
+<a href="mockup/globetrotter white.jpg"><img src="mockup/globetrotter white.jpg?v=3&s=200" title="globetrotter white" alt="globetrotter white"></a>
 
 ## UI
 ## Tshirt
