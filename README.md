@@ -1,4 +1,4 @@
-<a href="http://coderaky.com"><img src="https://avatars1.githubusercontent.com/u/4284691?v=3&s=200" title="Consilio" alt="Consilio"></a>
+<a href="http://coderaky.com"><img src="https://raw.githubusercontent.com/coder-aky/files/master/png/hello.png" title="Consilio" alt="Consilio"></a>
 # 🎨 Consilio
 
 > Design stuffs (App UI, Mockups, T-shirt, Trifold, CSS Cheatsheet, Event Flyers, Icons, Posters, Templates, Text, Visting Card etc) using Photoshop, illustrator, Figma, Sketch and blender.
@@ -20,7 +20,7 @@
 ---
 
 ## Mockups
-<a href="mockup/E-commerce Dashboard.jpg"><img src="mockup/E-commerce Dashboard.jpg" title="Consilio" alt="Consilio"></a>
+<a href="mockup/E-commerce Dashboard.jpg"><img src="mockup/E-commerce Dashboard.jpg?v=3&s=200" title="Consilio" alt="Consilio"></a>
 
 ## UI
 ## Tshirt
