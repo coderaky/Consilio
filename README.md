@@ -49,15 +49,15 @@
 <a href="event flyers/electronic chess.jpg"><img src="event flyers/electronic chess.jpg?v=3&s=200" title="electronic chess" alt="electronic chess"></a>
 <a href="event flyers/quarintine challenge.jpg"><img src="event flyers/quarintine challenge.jpg?v=3&s=200" title="quarintine challenge" alt="quarintine challenge"></a>
 
-<a href="event flyers/Circuit-e-Czar_compressed.jpg"><img src="posters/Circuit-e-Czar_compressed.jpg?v=3&s=200" title="" alt=""></a>
-<a href="event flyers/Code flash_compressed.jpg"><img src="posters/Code flash_compressed.jpg?v=3&s=200" title="" alt=""></a>
-<a href="event flyers/Digi Frame_compressed.jpg"><img src="posters/Digi Frame_compressed.jpg?v=3&s=200" title="" alt=""></a>
-<a href="event flyers/Web Quest_compressed.jpg"><img src="posters/Web Quest_compressed.jpg?v=3&s=200" title="" alt=""></a>
-<a href="event flyers/Web-o-fiesta_compressed.jpg"><img src="posters/Web-o-fiesta_compressed.jpg?v=3&s=200" title="" alt=""></a>
-<a href="event flyers/Yoga Day_compressed.jpg"><img src="posters/Yoga Day_compressed.jpg?v=3&s=200" title="" alt=""></a>
-<a href="event flyers/dhoni_compressed.jpg"><img src="posters/dhoni_compressed.jpg?v=3&s=200" title="" alt=""></a>
-<a href="event flyers/induction_compressed.jpg"><img src="posters/induction_compressed.jpg?v=3&s=200" title="" alt=""></a>
-<a href="event flyers/template_compressed.jpg"><img src="posters/template_compressed.jpg?v=3&s=200" title="" alt=""></a>
+<a href="event flyers/Circuit-e-Czar_compressed.jpg"><img src="event flyers/Circuit-e-Czar_compressed.jpg?v=3&s=200" title="" alt=""></a>
+<a href="event flyers/Code flash_compressed.jpg"><img src="event flyersevent flyers/Code flash_compressed.jpg?v=3&s=200" title="" alt=""></a>
+<a href="event flyers/Digi Frame_compressed.jpg"><img src="event flyers/Digi Frame_compressed.jpg?v=3&s=200" title="" alt=""></a>
+<a href="event flyers/Web Quest_compressed.jpg"><img src="event flyers/Web Quest_compressed.jpg?v=3&s=200" title="" alt=""></a>
+<a href="event flyers/Web-o-fiesta_compressed.jpg"><img src="event flyers/Web-o-fiesta_compressed.jpg?v=3&s=200" title="" alt=""></a>
+<a href="event flyers/Yoga Day_compressed.jpg"><img src="event flyers/Yoga Day_compressed.jpg?v=3&s=200" title="" alt=""></a>
+<a href="event flyers/dhoni_compressed.jpg"><img src="event flyers/dhoni_compressed.jpg?v=3&s=200" title="" alt=""></a>
+<a href="event flyers/induction_compressed.jpg"><img src="event flyers/induction_compressed.jpg?v=3&s=200" title="" alt=""></a>
+<a href="event flyers/template_compressed.jpg"><img src="event flyers/template_compressed.jpg?v=3&s=200" title="" alt=""></a>
 
 
 ## Posters
