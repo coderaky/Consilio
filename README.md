@@ -48,6 +48,18 @@
 ## EventFlyers
 <a href="event flyers/electronic chess.jpg"><img src="event flyers/electronic chess.jpg?v=3&s=200" title="electronic chess" alt="electronic chess"></a>
 <a href="event flyers/quarintine challenge.jpg"><img src="event flyers/quarintine challenge.jpg?v=3&s=200" title="quarintine challenge" alt="quarintine challenge"></a>
+
+<a href="event flyers/Circuit-e-Czar_compressed.jpg"><img src="posters/Circuit-e-Czar_compressed.jpg?v=3&s=200" title="" alt=""></a>
+<a href="event flyers/Code flash_compressed.jpg"><img src="posters/Code flash_compressed.jpg?v=3&s=200" title="" alt=""></a>
+<a href="event flyers/Digi Frame_compressed.jpg"><img src="posters/Digi Frame_compressed.jpg?v=3&s=200" title="" alt=""></a>
+<a href="event flyers/Web Quest_compressed.jpg"><img src="posters/Web Quest_compressed.jpg?v=3&s=200" title="" alt=""></a>
+<a href="event flyers/Web-o-fiesta_compressed.jpg"><img src="posters/Web-o-fiesta_compressed.jpg?v=3&s=200" title="" alt=""></a>
+<a href="event flyers/Yoga Day_compressed.jpg"><img src="posters/Yoga Day_compressed.jpg?v=3&s=200" title="" alt=""></a>
+<a href="event flyers/dhoni_compressed.jpg"><img src="posters/dhoni_compressed.jpg?v=3&s=200" title="" alt=""></a>
+<a href="event flyers/induction_compressed.jpg"><img src="posters/induction_compressed.jpg?v=3&s=200" title="" alt=""></a>
+<a href="event flyers/template_compressed.jpg"><img src="posters/template_compressed.jpg?v=3&s=200" title="" alt=""></a>
+
+
 ## Posters
 <!-- <a href="posters/National Technology day.jpg"><img src="posters/National Technology day.jpg?v=3&s=200" title="National Technology day" alt="National Technology day"></a> -->
 <a href="posters/america vs china trade war.jpg"><img src="posters/america vs china trade war.jpg?v=3&s=200" title="america vs china trade war" alt="america vs china trade war"></a>
@@ -58,6 +70,7 @@
 <a href="posters/java released day.jpg"><img src="posters/java released day.jpg?v=3&s=200" title="java released day" alt="java released day"></a>
 <a href="posters/labour day.jpg"><img src="posters/labour day.jpg?v=3&s=200" title="labour day" alt="labour day"></a>
 <a href="posters/rakhabandhan.jpg"><img src="posters/rakhabandhan.jpg?v=3&s=200" title="rakhabandhan" alt="rakhabandhan"></a>
+
 ## Others
 <a href="templates/daily poster.jpg"><img src="templates/daily poster.jpg?v=3&s=200" title="daily poster" alt="daily poster"></a>
 <a href="text/blender text.png"><img src="text/blender text.png?v=3&s=200" title="blender text" alt="blender text"></a>
